@@ -1,2 +1,2 @@
-print("ddd")
+print("dd")
 print("ss")
