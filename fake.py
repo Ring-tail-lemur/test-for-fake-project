@@ -1,5 +1,5 @@
 print("ddsadㅇㅇdfdfㄴf")
-print("sdsfs")
-print("dfdaasdfsdfsdㅇㄴㅁㅇㄹfㄴㅁㅇd")
+print("sdsfsadfdas")
+print("dfdaasdㅇㄴㅁㅇㄴfsdfsdㅇㄴㅁㅇㄹfㄴㅁㅇd")
 print("hihihiasdfdhiasdㄴㄴㅇsa2a3s23")
 print("ddfd")
