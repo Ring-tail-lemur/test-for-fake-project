@@ -11,6 +11,8 @@ print("dfdsafasd")
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
+context.log(cloudEventObj.action);
+context.log(cloudEventObj.action);
 print("ddsadㅇㅇdfdfㄴf")
 vprint("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
