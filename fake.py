@@ -1,6 +1,12 @@
 print("ddsadㅇㅇdfdfㄴf")
+print("ddsadㅇㅇdfdfㄴf")
+print("ddsadㅇㅇdfdfㄴf")
+print("ddsadㅇㅇdfdfㄴf")
+
 print("sdsfsadfdas")
 print("dfdaasdsdfㅇㄴㅁㅇㄴfsdfsdㅇㄴㅁㅇㄹfㄴㅁㅇd")
 print("hihihiasdfdhiasdㄴㄴㅇsasad2a3s23")
 print("ddfd")
 print("dfdsafasd")
+print("ddsadㅇㅇdfdfㄴf")
+print("ddsadㅇㅇdfdfㄴf")
