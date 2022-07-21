@@ -29,7 +29,7 @@ print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
 bigger_stream_analytics
-
+Endpoint=sb://eventhubtest-vidigummy.servicebus.windows.net/;SharedAccessKeyName=test;SharedAccessKey=2EQr3DJ/dhsSdLwbU1zI06VZraS87RayNj/iPzbQ8ZY=;EntityPath=eventhub-bigger-partition-vidigummy
 bigger_stream_analytics
 bigger_stream_analytics
 
