@@ -36,6 +36,8 @@ print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
+print("ddsadㅇㅇdfdfㄴf")
+print("ddsadㅇㅇdfdfㄴf")
 
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
