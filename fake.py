@@ -28,6 +28,9 @@ print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
+bigger_stream_analytics
+
+bigger_stream_analytics
 
 print("ddsadㅇㅇdfdfㄴf")
 print("ddsadㅇㅇdfdfㄴf")
